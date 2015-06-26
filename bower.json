@@ -1,8 +1,18 @@
 {
   "name": "foundation-compass-app",
   "version": "0.0.1",
-  "private": "true",
   "dependencies": {
     "foundation": "zurb/bower-foundation"
-  }
+  },
+  "authors": [
+    "spirit <sashko.harchuk@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
